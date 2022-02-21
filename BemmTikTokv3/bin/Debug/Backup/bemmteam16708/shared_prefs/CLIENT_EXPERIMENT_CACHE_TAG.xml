@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="com.ss.android.ugc.aweme.feed.experiment.FirstFeedFallbackStrategy" value="879" />
+<int name="com.ss.android.ugc.aweme.experiments.SyncTikTokLoginExperiment" value="280" />
+</map>

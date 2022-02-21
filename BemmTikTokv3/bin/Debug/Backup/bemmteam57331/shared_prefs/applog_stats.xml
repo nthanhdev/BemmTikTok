@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="real_time_events">[&quot;realtime_click&quot;,&quot;realtime_report&quot;]</string>
+    <string name="device_id">7036668208757949958</string>
+    <string name="stats_value">{&quot;session_id&quot;:&quot;68e6a78a-3f69-4736-a67f-3a8f17c1d81d&quot;,&quot;cnt_success&quot;:0,&quot;cnt_failure&quot;:0}</string>
+    <long name="app_log_last_config_time" value="1640600929449" />
+    <string name="install_id">7036668519924238085</string>
+    <string name="key_task_session"></string>
+    <string name="dr_channel">googleplay</string>
+    <int name="app_log_last_config_version" value="206003" />
+    <int name="last_config_version" value="206003" />
+    <int name="http_monitor_port" value="1024" />
+    <long name="last_config_time" value="1640600924384" />
+    <string name="allow_push_list">[]</string>
+</map>

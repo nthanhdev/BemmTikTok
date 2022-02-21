@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<long name="last_filter_time" value="1640601331355" />
+<boolean name="is_use_back_refresh" value="false" />
+<boolean name="is_npth_enable" value="true" />
+<int name="last_usable_network_speed" value="811749" />
+<int name="at_friends_show_type" value="0" />
+<int name="data_saver" value="2" />
+<long name="last_feed_count" value="0" />
+<boolean name="use_new_package_now" value="false" />
+<boolean name="enable_anti_aliasing" value="false" />
+<int name="weak_net_pre_load_switch" value="1" />
+<boolean name="sticker_artist_entry" value="false" />
+<boolean name="comment_setting_enable" value="true" />
+<int name="disable_age_gate" value="0" />
+<int name="is_show_gif_button" value="1" />
+<boolean name="is_change_follow_tab" value="false" />
+<boolean name="enable_passport_service_switch" value="true" />
+<set name="initial_high_priority_channel" />
+<int name="download_check_status" value="0" />
+<int name="show_creator_license_210" value="0" />
+<boolean name="video_preload" value="true" />
+<boolean name="is_first_lauch" value="false" />
+<boolean name="ad_user_agent_has_read_sp" value="true" />
+<string name="request_notification_text">Hãy bật thông báo để bạn có thể thấy tất cả các video mới nhất từ những người bạn follow</string>
+<boolean name="self_see_water_mark_switch" value="true" />
+<int name="im_can_im" value="1" />
+<string name="request_notification_title">Thông báo giúp bạn cập nhật!</string>
+<string name="last_channel_name">googleplay</string>
+<string name="ad_landing_page_config">{&quot;ad_landing_page_report_wifi_only_enable&quot;:true,&quot;ad_landing_page_report_page_count&quot;:3,&quot;ad_landing_page_report_packet_key&quot;:&quot;mmNttCSojTyxPods&quot;,&quot;ad_landing_page_report_limit_times&quot;:5,&quot;ad_landing_page_report_url&quot;:&quot;https://business.tiktokv.com/inspect/aegis/client/page/&quot;,&quot;ad_card_preload_common_channel&quot;:[&quot;styleac_i18n&quot;,&quot;clueapp&quot;],&quot;ad_card_preload_common_prefix&quot;:[&quot;https://s16.ipstatp.com/&quot;,&quot;https://sf16-scmcdn-sg.ibytedtos.com/goofy/&quot;],&quot;analytics&quot;:&quot;https://sf16-scmcdn-sg.ibytedtos.com/goofy/bytecom/resource/tetris/oversea_pi.76f114ae.js&quot;,&quot;ad_landing_page_preload_enabled&quot;:true,&quot;ad_landing_page_report_delay&quot;:2000,&quot;ad_landing_page_auto_jump_control_enabled&quot;:true,&quot;ad_landing_page_click_jump_control_enabled&quot;:true,&quot;ad_landing_page_auto_jump_allow_list&quot;:[&quot;market://details&quot;],&quot;ad_landing_page_auto_jump_intercept_list&quot;:[],&quot;ad_landing_page_click_jump_interval&quot;:3000,&quot;ad_landing_page_pause_list&quot;:[],&quot;ad_landing_page_preload_common_channel&quot;:[],&quot;ad_landing_page_preload_common_prefix&quot;:[],&quot;ad_landing_page_preload_cache_count&quot;:20,&quot;ad_lynx_page_preload_cache_count&quot;:10,&quot;allow_jump_list&quot;:[],&quot;allow_jump_control_enable&quot;:false}</string>
+<string name="search_tab_index">[&quot;general&quot;,&quot;user&quot;,&quot;video&quot;,&quot;music&quot;,&quot;hashtag&quot;]</string>
+<boolean name="is_show_near_by" value="false" />
+<boolean name="long_video_permitted" value="true" />
+<int name="last_app_version_code" value="206003" />
+<boolean name="enable_ultra_resolution" value="false" />
+<int name="ftc_age_enable" value="0" />
+<long name="last_feed_time" value="1640601331307" />
+<string name="js_actlog_url"></string>
+<int name="is_first_launch_to_show_guide" value="1" />
+<string name="download_sdk_config">{&quot;download_dialog_config&quot;:{&quot;is_enable_back_dialog&quot;:1.0},&quot;download_lib_switch&quot;:2.0}</string>
+<boolean name="has_enter_bind_phone" value="true" />
+<long name="today_video_play_time" value="0" />
+<int name="enable_hashtag_background" value="1" />
+<int name="promote_dialog_popup_click_type" value="0" />
+<int name="story_text_sticker_max_count" value="30" />
+<boolean name="is_europe_country" value="true" />
+<boolean name="profile_bubble_shown" value="false" />
+<boolean name="is_ob" value="false" />
+<string name="lab_title"></string>
+<string name="user_residence">VN</string>
+<boolean name="opt_out_google_personzalized_ads" value="false" />
+<boolean name="remove_follower_switch" value="true" />
+<int name="enablePrivacyDownload" value="1" />
+<set name="gecko_init_channels">
+<string>fe_search_vertical_lynx</string>
+<string>2021_08_pick_star_2</string>
+<string>reactlynx_talent_live_showcase</string>
+<string>webcast_mt</string>
+<string>dj_ecommerce_product_selection</string>
+<string>tiktok_live_revenue_weekly_rising</string>
+<string>fe_teu_lynx_webcast_product_bag</string>
+<string>tiktok_live_interaction_resource</string>
+<string>fe_tiktok_ecommerce_order_list</string>
+<string>tiktok_live_ecommerce_region_panel</string>
+<string>tiktok_ba_lynx_v2</string>
+<string>tea_store_manage</string>
+<string>tiktok_live_ecommerce_ug_traffic_popup</string>
+<string>fe_promote_mt</string>
+<string>coronavirus_covid19</string>
+<string>tiktok_fusion_component</string>
+<string>lynx_ecommerce_ecom_inbox</string>
+<string>tiktok_fonts</string>
+<string>fe_tiktok_ecommerce_pay</string>
+<string>fe_tiktok_end_of_year</string>
+<string>fe_tiktok_common</string>
+<string>upay_mobile_lynx</string>
+<string>tea_inbox</string>
+<string>tea_selection_page</string>
+<string>discovery_favorite_music_collection</string>
+<string>ug_activity_referral</string>
+<string>ecom_promotion_activities_new_year</string>
+<string>tiktok_live_revenue_subscription</string>
+<string>tiktok_live_basic_resource</string>
+<string>baca_fe</string>
+<string>resso-tt-lynx_full_song</string>
+<string>fe_search_card_lynx</string>
+<string>tiktok_live_ecommerce_voucher_short_touch</string>
+<string>clueapp</string>
+<string>2021_10_celebration</string>
+<string>2021_09_beat_virus</string>
+<string>tiktokm_fission</string>
+<string>ug_resource</string>
+<string>tiktok_live_broadcast_resource</string>
+<string>lynx_ecommerce_tab_shop</string>
+<string>communitysafety</string>
+<string>fe_tiktok_ecommerce_shop_cart</string>
+<string>fe_teu_lynx_webcast_coupon_list</string>
+<string>tiktok_live_ecommerce_address</string>
+<string>fe_tiktok_ecommerce_pay_middle</string>
+<string>rn_base_android</string>
+<string>resso</string>
+<string>tiktok_ba_lynx_next</string>
+<string>static</string>
+<string>tiktok_promote_lynx</string>
+<string>pop_task_lynx</string>
+<string>lynx_product_add_dialog</string>
+<string>tt_messaging_mt_emoji_zip</string>
+<string>dj_ecommerce_searchbar</string>
+<string>tiktok_live_ecommerce_popup_card</string>
+<string>dj_tiktok_ecommerce_promotion_page</string>
+<string>fe_teu_lynx_order_submit</string>
+<string>2021_09_gem_trek_mission</string>
+<string>tiktok_live_ecommerce_fans_popup</string>
+<string>game_center</string>
+<string>tiktok_ba_lynx</string>
+<string>tiktok_rn_brand_room</string>
+<string>tiktok_live_ecommerce_ug_short_touch</string>
+<string>2021_10_fusion_runtime</string>
+<string>fe_teu_lynx_product_detail</string>
+<string>fe_tiktok_lynx_search_transfer</string>
+<string>tiktok_egret_game</string>
+<string>fe_teu_lynx_order_center</string>
+<string>tea_creator_center</string>
+<string>gando_libs</string>
+<string>dj_tiktok_ecommerce_semi_promotion_page</string>
+<string>tiktok_live_ecommerce_voucher_products_panel</string>
+<string>fe_tiktok_ad_authorization</string>
+<string>translation</string>
+<string>2021_08_battle_for_treasure</string>
+<string>dj_tiktok_ecommerce_creator_center</string>
+<string>tiktok_live_watch_resource</string>
+<string>roma_schema_config</string>
+<string>fe_tiktok_ecommerce_order_detail</string>
+<string>rn_base_ios</string>
+<string>tiktok_live_ecommerce_coupon_panel</string>
+<string>tiktok_live_ecommerce_tools_otp</string>
+<string>fe_tiktok_ecommerce_common</string>
+<string>feelgood_lynx</string>
+<string>fe_tiktok_ad_revenue_share</string>
+<string>tiktok_live_revenue</string>
+<string>tiktok_ug_gamification</string>
+<string>gecko_hybrid_prefetch_config</string>
+<string>fe_tiktok_ecommerce_payment_code</string>
+<string>tiktok_live_lynx</string>
+<string>tiktok_live_revenue_wish_list</string>
+<string>lynx_ecommerce_add_product</string>
+<string>tiktok_live_revenue_golden_envelope</string>
+<string>feedback</string>
+<string>fe_tiktok_shop</string>
+<string>2021_09_king_of_the_ocean</string>
+<string>fe_tiktok_ecommerce_payment_manager</string>
+<string>tea_promotion_page</string>
+<string>tiktok_live_revenue_wallet</string>
+<string>tiktok_live_ecommerce_coupon_popup</string>
+<string>discovery_hashtag_collect</string>
+<string>styleac_i18n</string>
+<string>lynx_ecommerce_store_manage</string>
+</set>
+<int name="x2c_switch" value="2" />
+<int name="ftc_age_gate_response_mode7046326137279284226" value="0" />
+<long name="follow_notice_close_time" value="0" />
+<int name="enableBindItemCallOMSDK" value="0" />
+<boolean name="show_timeline_tab" value="false" />
+<boolean name="in_ultra_resolution_black_list" value="false" />
+<int name="promote_dialog_popup_times_limit" value="0" />
+<boolean name="invite_friends_settings" value="true" />
+<int name="ultra_resolution_level" value="8" />
+<int name="use_live_wallpaper" value="2" />
+<string name="privacy_reminder"></string>
+<string name="user_add_languages"></string>
+<int name="verify_exceed" value="5" />
+<int name="is_new_install" value="1" />
+<int name="show_follow_tab_following_limit" value="0" />
+<string name="ad_user_agent_sp">Mozilla/5.0 (Linux; Android 7.1.2; SM-G977N Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36</string>
+<int name="ftc_age_gate_response_mode" value="0" />
+<boolean name="can_create_insights" value="true" />
+<string name="invite_friends"></string>
+<int name="story_info_sticker_max_count" value="30" />
+<string name="user_current_region">VN</string>
+<boolean name="can_duet" value="true" />
+<set name="share_H5_url_white_list">
+<string>tiktokcdn.com</string>
+<string>tiktokv.com</string>
+<string>tiktok.com</string>
+</set>
+<boolean name="enable_profile_link" value="false" />
+<boolean name="promote_dialog_show" value="false" />
+<string name="last_app_version_name">20.60.3</string>
+<boolean name="private_aweme_available" value="true" />
+<string name="sticker_artlist_url"></string>
+<boolean name="enable_twitter_new_key" value="false" />
+<boolean name="contact_dialog_shown" value="true" />
+<int name="download_micro_app" value="1" />
+<boolean name="ftc_age_gate_response_prompt" value="false" />
+<int name="im_can_send_pic" value="0" />
+<boolean name="im_comment_forward_enabled" value="false" />
+<string name="download_forbidden_toast">Bài đăng này đang được xem xét. Vui lòng thử lại sau.</string>
+</map>
